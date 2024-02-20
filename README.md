@@ -9,3 +9,7 @@ Foi utilizado como base a modelo RestNet50V2, através de fine tuning e o recurs
 O modelo obteve uma excelente performance com uma taxa de acerto de mais de 99%
 
 ![image](https://github.com/EvandroSanches/BrainTumor_CNN/assets/102191806/86f09d96-d5d9-40e6-bbab-60efb2044f99)
+
+Matriz de confusão
+
+![image](https://github.com/EvandroSanches/BrainTumor_CNN/assets/102191806/43dbaf41-272b-47a8-a85f-a60c6ceb32c1)
